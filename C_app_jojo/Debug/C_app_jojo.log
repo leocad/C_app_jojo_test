@@ -1,0 +1,17 @@
+﻿La génération a démarré 24/02/2017 16:16:12.
+     1>Projet "D:\dev\visual studio\tuto_openclassroom\C_app_jojo\C_app_jojo\C_app_jojo.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         E:\programs\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>d:\dev\visual studio\tuto_openclassroom\c_app_jojo\c_app_jojo\main.cpp(13): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+         d:\dev\visual studio\tuto_openclassroom\c_app_jojo\c_app_jojo\main.cpp(13): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+         d:\dev\visual studio\tuto_openclassroom\c_app_jojo\c_app_jojo\main.cpp(13): note: the missing variadic argument 2 is required by format string '%s'
+         d:\dev\visual studio\tuto_openclassroom\c_app_jojo\c_app_jojo\main.cpp(13): note: this argument is used as a buffer size
+       Link:
+         E:\programs\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\dev\visual studio\tuto_openclassroom\C_app_jojo\Debug\C_app_jojo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\dev\visual studio\tuto_openclassroom\C_app_jojo\Debug\C_app_jojo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\dev\visual studio\tuto_openclassroom\C_app_jojo\Debug\C_app_jojo.lib" /MACHINE:X86 Debug\Main.obj
+         C_app_jojo.vcxproj -> D:\dev\visual studio\tuto_openclassroom\C_app_jojo\Debug\C_app_jojo.exe
+     1>Génération du projet "D:\dev\visual studio\tuto_openclassroom\C_app_jojo\C_app_jojo\C_app_jojo.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.18
